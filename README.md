@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 </p>
 
 
-[![Linkedin Badge](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
-[![Gmail Badge](https://img.shields.io/badge/-priscilasousaferreira9@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:priscilasousaferreira9@gmail.com)](mailto:priscilasousaferreira9@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=mailto:https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)](mailto:https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
+[![Gmail Badge](https://img.shields.io/badge/-priscilasousaferreira31@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:priscilasousaferreira31@gmail.com)](mailto:priscilasousaferreira31@gmail.com)
 
 
 
