@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p align="left">
 </p>
 
-
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/priscila-sousa-ferreira-0b7b82310?trk=contact-info)](https://www.linkedin.com/in/priscila-sousa-ferreira-0b7b82310?trk=contact-info)
 
 [![Gmail Badge](https://img.shields.io/badge/-priscilasousaferreira31@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:priscilasousaferreira31@gmail.com)](mailto:priscilasousaferreira31@gmail.com)
 
