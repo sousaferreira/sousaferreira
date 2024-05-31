@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/priscila-sousa-ferreira-43b39b290/)](https://www.linkedin.com/in/priscila-sousa-ferreira-43b39b290/)
+[![Linkedin Badge](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
 [![Gmail Badge](https://img.shields.io/badge/-priscilasousaferreira9@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:priscilasousaferreira9@gmail.com)](mailto:priscilasousaferreira9@gmail.com)
 
 
