@@ -29,9 +29,9 @@
 
 🎨 Aqui estão alguns dos meus projetos mais criativos e inovadores:
 
-1. [Projeto 1](https://github.com/sousaferreira/Calc_delphi): Foi incrivel conhecer essa linguagem, um aprendizado marcante.
-2. [Projeto 2](https://github.com/sousaferreira/PriFlix): Um de meus primeiros códigos, memórias icriveis de seu desenvolvimento.
-3. [Projeto 3](https://github.com/sousaferreira/Perfil_Pessoal.JS): Uma experiência interativa que desafiou minha lógica.
+1. [Calc.Delphi](https://github.com/sousaferreira/Calc_delphi): Foi incrivel conhecer essa linguagem, um aprendizado marcante.
+2. [PriFlix](https://github.com/sousaferreira/PriFlix): Um de meus primeiros códigos, memórias icriveis de seu desenvolvimento.
+3. [Perfil_pessoal](https://github.com/sousaferreira/Perfil_Pessoal.JS): Uma experiência interativa que desafiou minha lógica.
 
 ## Vamos Criar Algo Incrível! 💫
 
@@ -39,9 +39,8 @@
 
 
 ## Vamos Conectar!
-
 [![Instagram](https://img.shields.io/badge/-@priscilas_306-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/priscilas_306)](https://instagram.com/priscilas_306)  
-[![Linkedin]([https://img.shields.io/badge/-PriscilaSousa-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://facebook.com/seuuser)](https://facebook.com/seuuser](https://www.linkedin.com/in/priscila-sousa-ferreira-0b7b82310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+[![LinkedIn](https://img.shields.io/badge/-PriscilaSousa-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/priscila-sousa-ferreira-0b7b82310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/priscila-sousa-ferreira-0b7b82310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
+![Priscila Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=sousaferreira&show_icons=true&theme=dracula)
 
-![Priscila Sousa GitHub stats](https://github.com/sousaferreira)
