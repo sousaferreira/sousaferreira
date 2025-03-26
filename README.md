@@ -9,17 +9,18 @@
 💻 Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 - **Linguagens de Programação:**  
-  [![My Skills](https://skillicons.dev/icons?i=html,css,php,javascript,python,cpp)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,cpp,php,sql)](https://skillicons.dev)
 
-- **Frameworks e Bibliotecas:**  
-  [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+- **Desenvolvimento Web:**  
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,laravel)](https://skillicons.dev)
 
 - **Design e Prototipação:**  
   [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
-- **Tecnologias Adicionais:**  
-  ![Delphi](https://img.shields.io/badge/Delphi-red?style=flat-square&logo=delphi&logoColor=white)
-  [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+- **Cloud & Outros:**  
+  [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)  
+  ![Delphi](https://img.shields.io/badge/Delphi-red?style=flat-square&logo=delphi&logoColor=white)  
+  ![Kazi](https://img.shields.io/badge/Kazi-000000?style=flat-square&logoColor=white)
 
 ## Projetos Criativos
 
@@ -35,8 +36,8 @@
 
 ## Vamos Conectar!
 
-[![Instagram](https://img.shields.io/badge/-@seuuser-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/seuuser)](https://instagram.com/seuuser)
-[![Facebook](https://img.shields.io/badge/-PriscilaSousa-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://facebook.com/seuuser)](https://facebook.com/seuuser)
+[![Instagram](https://img.shields.io/badge/-@seuuser-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/seuuser)](https://instagram.com/seuuser)  
+[![Facebook](https://img.shields.io/badge/-PriscilaSousa-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://facebook.com/seuuser)](https://facebook.com/seuuser)  
 [![Twitter Follow](https://img.shields.io/twitter/follow/seuuser?style=social)](https://twitter.com/seuuser)
 
 ![Priscila Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=dracula)
