@@ -11,16 +11,19 @@
 - **Linguagens de Programação:**  
   [![My Skills](https://skillicons.dev/icons?i=python,cpp,php,sql)](https://skillicons.dev)
 
-- **Desenvolvimento Web:**  
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,laravel)](https://skillicons.dev)
+- **Frameworks e Bibliotecas:**  
+  [![My Skills](https://skillicons.dev/icons?i=react,laravel)](https://skillicons.dev)
 
-- **Design e Prototipação:**  
-  [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+- **Dados:**  
+  [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
-- **Cloud & Outros:**  
-  [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)  
+- **Ferramentas e Tecnologias:**  
+  [![My Skills](https://skillicons.dev/icons?i=aws,figma)](https://skillicons.dev)  
   ![Delphi](https://img.shields.io/badge/Delphi-red?style=flat-square&logo=delphi&logoColor=white)  
   ![Kazi](https://img.shields.io/badge/Kazi-000000?style=flat-square&logoColor=white)
+
+- **Desenvolvimento Web:**  
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
 ## Projetos Criativos
 
