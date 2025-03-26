@@ -14,7 +14,7 @@
 
 -  Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=,javascript,python)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=c++,javascript,python)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
     [![My Skills](https://skillicons.dev/icons?i=spring,react,django)](https://skillicons.dev)
