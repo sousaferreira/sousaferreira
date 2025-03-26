@@ -42,5 +42,5 @@
 [![Instagram](https://img.shields.io/badge/-@priscilas_306-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/priscilas_306)](https://instagram.com/priscilas_306)  
 [![LinkedIn](https://img.shields.io/badge/-PriscilaSousa-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/priscila-sousa-ferreira-0b7b82310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/priscila-sousa-ferreira-0b7b82310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
-![Priscila Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=sousaferreira&show_icons=true&theme=dracula)
+
 
