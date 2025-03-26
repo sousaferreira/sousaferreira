@@ -39,8 +39,9 @@
 
 
 ## Vamos Conectar!
-[![Instagram](https://img.shields.io/badge/-@priscilas_306-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/priscilas_306)](https://instagram.com/priscilas_306)  
-[![LinkedIn](https://img.shields.io/badge/-PriscilaSousa-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/priscila-sousa-ferreira-0b7b82310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/priscila-sousa-ferreira-0b7b82310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/invites/contact/?igsh=92ki85kpap0e&utm_content=mnoji3x)](https://www.instagram.com/invites/contact/?igsh=92ki85kpap0e&utm_content=mnoji3x)  
+[![LinkedIn](https://img.shields.io/badge/-PriscilaSousa-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/priscila-sousa-ferreira-0b7b82310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/priscila-sousa-ferreira-0b7b82310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  
 
 
 
